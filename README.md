@@ -22,3 +22,7 @@ You can click the Preview link to take a look at your changes.
   <!-- <a href="https://wasabina67.github.io/">Website</a> • -->
   <a href="https://x.com/wasabina67">X</a>
 </div>
+
+<!--
+X, Instagram, Facebook, YouTube
+-->
