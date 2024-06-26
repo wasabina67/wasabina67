@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
-  <!-- <a href="https://wasabina67.github.io/">Website</a> • -->
+  <a href="https://wasabina67.github.io/">Website</a> •
   <a href="https://x.com/wasabina67">X</a> •
   <a href="https://www.instagram.com/wasabina67">Instagram</a>
 </div>
