@@ -13,9 +13,9 @@ wasabina67/wasabina67 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I’m @wasabina67 👋
+### Hi there, I’m @wasabina67 🍉
 
-**Last updated**: 2024-06-30
+**Last updated**: 2024-07-22
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
