@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I’m @wasabina67 🍉
 
-[![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://twitter.com/wasabina67)
+[![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 
 <!--
 ![wasabina67's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=dark)
