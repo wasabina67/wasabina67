@@ -19,13 +19,13 @@ You can click the Preview link to take a look at your changes.
 [![wasabina67's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasabina67&theme=tokyo-night&height=300&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-**Last updated**: 2024-07-22
+**Last updated**: 2024-07-25
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
   <a href="https://wasabina67.github.io/">Website</a> •
   <a href="https://x.com/wasabina67">X</a> •
-  <a href="https://www.instagram.com/wasabina67">Instagram</a>
-  <!-- Facebook -->
-  <!-- YouTube -->
+  <a href="https://www.instagram.com/wasabina67">Instagram</a> •
+  <a href="https://www.youtube.com/@wasabina67">YouTube</a> •
+  <a href="https://gist.github.com/wasabina67">Gist</a>
 </div>
