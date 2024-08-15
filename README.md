@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact" />
 </a>
 
-**Last updated**: 2024-08-15
+#### **Last updated**: 2024-08-15
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
