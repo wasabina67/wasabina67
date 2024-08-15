@@ -17,12 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 
-<!--
-![wasabina67's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=dark)
-
-[![wasabina67's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasabina67&theme=tokyo-night&height=300&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
 **Last updated**: 2024-08-15
 
 <div align="center">
