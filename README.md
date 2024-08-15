@@ -3,10 +3,16 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=true"
+  />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6"
+  />
 </a>
 
 #### **Last updated**: 2024-08-15
