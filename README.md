@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=dark&hide_title=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6" />
 </a>
 
 #### **Last updated**: 2024-08-15
