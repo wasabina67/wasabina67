@@ -13,7 +13,7 @@ wasabina67/wasabina67 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I’m @wasabina67 👋
+### Hi there, I’m @wasabina67 🍉
 
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 
