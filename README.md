@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 
-<a href="#">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=dark&hide_title=true" />
 </a>
-<a href="#">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6" />
 </a>
 
