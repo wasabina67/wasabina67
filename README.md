@@ -5,13 +5,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&disable_animations=true"
   />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6&disable_animations=true"
   />
 </a>
 
