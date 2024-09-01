@@ -1,6 +1,8 @@
 ### Hi there, I’m @wasabina67 🍉
 
+<!--
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
