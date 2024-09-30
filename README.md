@@ -1,4 +1,4 @@
-### Hi there, I’m @wasabina67 🏠
+### Hi there, I’m @wasabina67 🍇
 
 [![GitHub followers](https://img.shields.io/github/followers/wasabina67)](https://github.com/wasabina67?tab=followers)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2Fwasabina67&color=%232b3f6d)](https://gravatar.com/wasabina67)
@@ -20,7 +20,7 @@
   />
 </a>
 
-#### **Last updated**: 2024-09-26
+#### **Last updated**: 2024-09-30
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
