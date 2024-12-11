@@ -28,7 +28,9 @@
   />
 </a>
 
+<!--
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=wasabina67)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 #### **Last updated**: 2024-12-11
 
