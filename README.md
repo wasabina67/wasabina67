@@ -1,7 +1,7 @@
 ### Hi there, I’m @wasabina67 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/wasabina67)](https://github.com/wasabina67?tab=followers)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2Fwasabina67&color=%232b3f6d)](https://gravatar.com/wasabina67)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com&color=%232b3f6d)](https://gravatar.com/wasabina67)
 
 <!--
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
