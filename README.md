@@ -7,6 +7,7 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/wasabina67?style=social)](https://x.com/wasabina67)
 -->
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
@@ -19,6 +20,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6&disable_animations=true"
   />
 </a>
+-->
 
 #### **Last updated**: 2024-11-21
 
