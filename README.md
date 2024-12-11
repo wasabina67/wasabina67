@@ -22,6 +22,13 @@
 </a>
 -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&disable_animations=true"
+  />
+</a>
+
 #### **Last updated**: 2024-12-11
 
 <div align="center">
