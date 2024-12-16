@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6&theme=vue-dark&hide_title=true&disable_animations=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=8&theme=vue-dark&hide_title=true&disable_animations=true"
     height="150"
   />
 </a>
