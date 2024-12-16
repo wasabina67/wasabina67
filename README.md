@@ -26,7 +26,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=gruvbox&hide_title=false&disable_animations=true"
+    src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=merko&hide_title=false&disable_animations=true"
     height="150"
   />
 </a>
