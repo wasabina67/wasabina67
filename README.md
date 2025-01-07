@@ -77,4 +77,11 @@
   </a>
 </div>
 
+<img
+  src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
+  width="32"
+  height="32"
+/>
+wasabina67@gmail.com
+
 #### **Last updated**: 2025-01-07
