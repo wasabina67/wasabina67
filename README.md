@@ -79,8 +79,8 @@
 
 <img
   src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
-  width="32"
-  height="32"
+  width="16"
+  height="16"
 />
 wasabina67@gmail.com
 
