@@ -52,6 +52,8 @@
       <br>
       <a href="https://gist.github.com/wasabina67">Gist</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="img/zenn/logo-only.svg" width="32" height="32" />
       <br>
