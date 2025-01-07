@@ -60,7 +60,11 @@
     />
   </a>&nbsp;
   <a href="https://x.com/wasabina67">
-    X
+    <img
+      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/x.svg"
+      width="32"
+      height="32"
+    />
   </a>&nbsp;
   <a href="https://www.instagram.com/wasabina67">Instagram</a> •
   <a href="https://www.youtube.com/@wasabina67">YouTube</a> •
