@@ -27,13 +27,6 @@
 ## Profile
 
 <div align="left">
-  <a href="https://gist.github.com/wasabina67">
-    <img
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg"
-      width="32"
-      height="32"
-    />
-  </a>&nbsp;
   <a href="https://zenn.dev/wasabina67">
     Zenn
   </a>&nbsp;
