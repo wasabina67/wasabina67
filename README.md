@@ -67,7 +67,7 @@ Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghaz
   </tr>
 </table>
 
-[badges/shields](https://github.com/badges/shields)
+Special thanks to [badges/shields](https://github.com/badges/shields) for this amazing project!
 
 Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 
