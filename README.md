@@ -86,4 +86,13 @@
 wasabina67@gmail.com
 </h4>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg" width="22" height="22" />
+      <a href="mailto:wasabina67@gmail.com">wasabina67@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
 #### **Last updated**: 2025-01-07
