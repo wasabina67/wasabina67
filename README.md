@@ -13,7 +13,7 @@
   height="150"
 />
 
-[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
 
 ## About Me
 
