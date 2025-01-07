@@ -77,11 +77,13 @@
   </a>
 </div>
 
+<h4>
 <img
   src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
   width="16"
   height="16"
 />
 wasabina67@gmail.com
+</h4>
 
 #### **Last updated**: 2025-01-07
