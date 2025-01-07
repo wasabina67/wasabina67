@@ -27,13 +27,6 @@
 ## Profile
 
 <div align="left">
-  <a href="https://www.instagram.com/wasabina67">
-    <img
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/instagram.svg"
-      width="32"
-      height="32"
-    />
-  </a>&nbsp;
   <a href="https://www.youtube.com/@wasabina67">
     <img
       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/youtube.svg"
