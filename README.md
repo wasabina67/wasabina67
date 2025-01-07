@@ -27,12 +27,6 @@
 ## Profile
 
 <div align="left">
-  <a href="https://zenn.dev/wasabina67">
-    Zenn
-  </a>&nbsp;
-  <a href="https://note.com/wasabina67">
-    note
-  </a>
 </div>
 
 <table>
