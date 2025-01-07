@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg" width="32" height="32" />
       <br>
       <a href="mailto:wasabina67@gmail.com">Gmail</a>
