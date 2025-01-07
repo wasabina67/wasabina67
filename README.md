@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 ### Hi there, I’m @wasabina67 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/wasabina67)](https://github.com/wasabina67?tab=followers)
