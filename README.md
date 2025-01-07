@@ -31,7 +31,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg" width="32" height="32" />
       <br>
-      <a href="mailto:wasabina67@gmail.com">wasabina67@gmail.com</a>
+      <a href="mailto:wasabina67@gmail.com">Gmail</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
