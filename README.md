@@ -77,15 +77,6 @@
   </a>
 </div>
 
-<h4>
-<img
-  src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
-  width="22"
-  height="22"
-/>
-wasabina67@gmail.com
-</h4>
-
 <table>
   <tr>
     <td>
