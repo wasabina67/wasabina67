@@ -73,8 +73,8 @@
       height="32"
     />
   </a>&nbsp;
-  <a href="https://www.youtube.com/@wasabina67">YouTube</a> •
-  <a href="https://gist.github.com/wasabina67">Gist</a> •
-  <a href="https://zenn.dev/wasabina67">Zenn</a> •
+  <a href="https://www.youtube.com/@wasabina67">YouTube</a>&nbsp;
+  <a href="https://gist.github.com/wasabina67">Gist</a>&nbsp;
+  <a href="https://zenn.dev/wasabina67">Zenn</a>&nbsp;
   <a href="https://note.com/wasabina67">note</a>
 </div>
