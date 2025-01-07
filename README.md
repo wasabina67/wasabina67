@@ -67,4 +67,6 @@ Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghaz
   </tr>
 </table>
 
+[edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
+
 #### **Last updated**: 2025-01-07
