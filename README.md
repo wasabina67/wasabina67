@@ -45,7 +45,13 @@
 #### **Last updated**: 2025-01-07
 
 <div align="center">
-  <a href="mailto:wasabina67@gmail.com">Email</a> •
+  <a href="mailto:wasabina67@gmail.com">
+    <img
+      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/email.svg"
+      width="32"
+      height="32"
+    />
+  </a> •
   <a href="https://wasabina67.github.io/">Website</a> •
   <a href="https://x.com/wasabina67">X</a> •
   <a href="https://www.instagram.com/wasabina67">Instagram</a> •
