@@ -27,7 +27,7 @@
       <br>
       <a href="mailto:wasabina67@gmail.com">Gmail</a>
     </td>
-    <td>
+    <td width="100">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
       <br>
       <a href="https://wasabina67.github.io/">Website</a>
@@ -37,17 +37,17 @@
       <br>
       <a href="https://x.com/wasabina67">@wasabina67</a>
     </td>
-    <td>
+    <td width="100">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/instagram.svg" width="32" height="32" />
       <br>
       <a href="https://www.instagram.com/wasabina67">wasabina67</a>
     </td>
-    <td>
+    <td width="100">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/youtube.svg" width="32" height="32" />
       <br>
       <a href="https://www.youtube.com/@wasabina67">@wasabina67</a>
     </td>
-    <td>
+    <td width="100">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
       <br>
       <a href="https://gist.github.com/wasabina67">Gist</a>
