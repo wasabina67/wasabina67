@@ -13,7 +13,7 @@
   height="150"
 />
 
-Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
+- Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
 
 ## About Me
 
@@ -67,8 +67,7 @@ Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghaz
   </tr>
 </table>
 
-Special thanks to [badges/shields](https://github.com/badges/shields) for this amazing project!
-
-Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
+- Special thanks to [badges/shields](https://github.com/badges/shields) for this amazing project!
+- Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 
 #### **Last updated**: 2025-01-07
