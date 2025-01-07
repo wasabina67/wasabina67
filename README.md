@@ -58,8 +58,10 @@
       width="32"
       height="32"
     />
-  </a> •
-  <a href="https://x.com/wasabina67">X</a> •
+  </a>&nbsp;
+  <a href="https://x.com/wasabina67">
+    X
+  </a>&nbsp;
   <a href="https://www.instagram.com/wasabina67">Instagram</a> •
   <a href="https://www.youtube.com/@wasabina67">YouTube</a> •
   <a href="https://gist.github.com/wasabina67">Gist</a> •
