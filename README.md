@@ -26,9 +26,6 @@
 
 ## Profile
 
-<div align="left">
-</div>
-
 <table>
   <tr>
     <td>
