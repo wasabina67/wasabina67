@@ -28,7 +28,7 @@ a { text-decoration: none; }
 
 ## GitHub Readme Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none">
   <img
     src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=merko&hide_title=true&disable_animations=true"
     height="150"
