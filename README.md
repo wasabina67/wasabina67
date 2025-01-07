@@ -73,6 +73,11 @@
       <br>
       <a href="https://x.com/wasabina67">@wasabina67</a>
     </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/instagram.svg" width="32" height="32" />
+      <br>
+      <a href="https://www.instagram.com/wasabina67">@wasabina67</a>
+    </td>
   </tr>
 </table>
 
