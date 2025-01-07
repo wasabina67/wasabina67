@@ -32,7 +32,7 @@
       <br>
       <a href="https://wasabina67.github.io/">Website</a>
     </td>
-    <td>
+    <td width="100">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/x.svg" width="32" height="32" />
       <br>
       <a href="https://x.com/wasabina67">@wasabina67</a>
