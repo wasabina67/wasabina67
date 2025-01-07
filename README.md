@@ -66,6 +66,8 @@
       <a href="https://zenn.dev/wasabina67">Zenn</a>
     </td>
     <td>
+      <img src="img/note/square.svg" width="32" height="32" />
+      <br>
       <a href="https://note.com/wasabina67">note</a>
     </td>
   </tr>
