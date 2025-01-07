@@ -87,6 +87,10 @@
       height="32"
     />
   </a>&nbsp;
-  <a href="https://zenn.dev/wasabina67">Zenn</a>&nbsp;
-  <a href="https://note.com/wasabina67">note</a>
+  <a href="https://zenn.dev/wasabina67">
+    Zenn
+  </a>&nbsp;
+  <a href="https://note.com/wasabina67">
+    note
+  </a>
 </div>
