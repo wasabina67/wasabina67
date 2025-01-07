@@ -53,13 +53,13 @@
       <br>
       <a href="https://www.youtube.com/@wasabina67">@wasabina67</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
       <br>
       <a href="https://gist.github.com/wasabina67">Gist</a>
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td>
       <a href="https://zenn.dev/wasabina67">Zenn</a>
     </td>
