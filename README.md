@@ -47,7 +47,7 @@
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">
     <img
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/email.svg"
+      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
       width="32"
       height="32"
     />
