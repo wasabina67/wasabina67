@@ -69,6 +69,12 @@
       <br>
       <a href="https://gist.github.com/wasabina67">Gist</a>
     </td>
+    <td>
+      <a href="https://zenn.dev/wasabina67">Zenn</a>
+    </td>
+    <td>
+      <a href="https://note.com/wasabina67">note</a>
+    </td>
   </tr>
 </table>
 
