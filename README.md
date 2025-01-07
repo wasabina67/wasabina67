@@ -61,6 +61,8 @@
   </tr>
   <tr>
     <td>
+      <img src="img/zenn/logo-only-white.svg" height="32" />
+      <br>
       <a href="https://zenn.dev/wasabina67">Zenn</a>
     </td>
     <td>
