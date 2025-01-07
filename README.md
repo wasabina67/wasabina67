@@ -55,9 +55,7 @@
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
       <br>
       <a href="https://gist.github.com/wasabina67">Gist</a>
-    </td>    
-  </tr>
-  <tr>
+    </td>
     <td>
       <img src="img/zenn/logo-only.svg" width="32" height="32" />
       <br>
