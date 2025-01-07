@@ -80,8 +80,8 @@
 <h4>
 <img
   src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
-  width="20"
-  height="20"
+  width="22"
+  height="22"
 />
 wasabina67@gmail.com
 </h4>
