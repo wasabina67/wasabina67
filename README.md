@@ -49,7 +49,7 @@ a { text-decoration: none; }
 #### **Last updated**: 2025-01-07
 
 <div align="left">
-  <a href="mailto:wasabina67@gmail.com">
+  <a href="mailto:wasabina67@gmail.com" style="text-decoration: none">
     <img
       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/gmail.svg"
       width="32"
