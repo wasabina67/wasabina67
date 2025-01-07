@@ -54,12 +54,12 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100">
       <img src="img/zenn/logo-only.svg" width="32" height="32" />
       <br>
       <a href="https://zenn.dev/wasabina67">Zenn</a>
     </td>
-    <td>
+    <td width="100">
       <img src="img/note/icon.svg" width="32" height="32" />
       <br>
       <a href="https://note.com/wasabina67">note</a>
