@@ -51,7 +51,7 @@
       width="32"
       height="32"
     />
-  </a> •
+  </a>
   <a href="https://wasabina67.github.io/">
     <img
       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg"
