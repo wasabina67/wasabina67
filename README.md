@@ -36,7 +36,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
       <br>
-      <a href="https://wasabina67.github.io/">https://wasabina67.github.io/</a>
+      <a href="https://wasabina67.github.io/">wasabina67.github.io</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/x.svg" width="32" height="32" />
