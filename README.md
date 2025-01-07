@@ -25,7 +25,7 @@
 
 ## Profile
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2aaaaa&color=%232b3f6d)](https://gravatar.com/wasabina67)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2Faaaaa&color=%232b3f6d)](https://gravatar.com/wasabina67)
 
 <table>
   <tr>
