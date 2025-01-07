@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=8&theme=vue-dark&hide_title=true&disable_animations=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6&theme=vue-dark&hide_title=true&disable_animations=true"
     height="150"
   />
 </a>
@@ -42,7 +42,7 @@
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=wasabina67)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-#### **Last updated**: 2024-12-16
+#### **Last updated**: 2025-01-07
 
 <div align="center">
   <a href="mailto:wasabina67@gmail.com">Email</a> •
