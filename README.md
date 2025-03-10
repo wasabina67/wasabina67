@@ -42,16 +42,6 @@
       <br>
       <a href="https://www.instagram.com/wasabina67">wasabina67</a>
     </td>
-    <td width="100">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/youtube.svg" width="32" height="32" />
-      <br>
-      <a href="https://www.youtube.com/@wasabina67">@wasabina67</a>
-    </td>
-    <td width="100">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/github.svg" width="32" height="32" />
-      <br>
-      <a href="https://gist.github.com/wasabina67">Gist</a>
-    </td>
   </tr>
   <tr>
     <td width="100">
