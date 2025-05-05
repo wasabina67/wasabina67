@@ -70,4 +70,6 @@
 - Special thanks to [badges/shields](https://github.com/badges/shields) for this amazing project!
 - Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 
+<iframe src="https://gravatar.com/wasabina67.card" width="415" height="228" style="border:0; margin:0; padding:0;"></iframe>
+
 #### **Last updated**: 2025-04-10
