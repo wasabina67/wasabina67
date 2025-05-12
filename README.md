@@ -19,7 +19,7 @@
 - Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
 -->
 
-### About Me
+### Gravatar
 
 <!--
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2Fwasabina67&color=%232b3f6d)](https://gravatar.com/wasabina67)
