@@ -80,7 +80,7 @@
 - Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 -->
 
-<a href="https://gravatar.com/wasabina67" target="_blank">
+<a href="https://gravatar.com/wasabina67">
   <img
     src="img/gravatar.com_wasabina67.card.png"
     height="250"
