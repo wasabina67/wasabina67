@@ -2,6 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/wasabina67)](https://github.com/wasabina67?tab=followers)
 
+Thank you for visiting my GitHub profile.
+
 <!--
 ## GitHub Readme Stats
 -->
