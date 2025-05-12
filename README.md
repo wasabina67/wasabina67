@@ -80,9 +80,12 @@
 - Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 -->
 
-<img
-  src="img/gravatar.com_wasabina67.card.png"
-  height="250"
-/>
+<a href="https://gravatar.com/wasabina67" target="_blank">
+  <img
+    src="img/gravatar.com_wasabina67.card.png"
+    height="250"
+    alt="Gravatar profile of wasabina67"
+  />
+</a>
 
 #### **Last updated**: 2025-05-12
