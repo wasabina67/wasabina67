@@ -85,6 +85,7 @@
     src="img/gravatar.com_wasabina67.card.png"
     height="250"
     alt="Gravatar profile of wasabina67"
+    style="border-radius: 8px;"
   />
 </a>
 
