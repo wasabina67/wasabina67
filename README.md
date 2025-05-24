@@ -85,7 +85,7 @@ Thank you for visiting my GitHub profile.
 <a href="https://gravatar.com/wasabina67">
   <img
     src="img/gravatar.com_wasabina67.card.png"
-    height="250"
+    height="220"
     alt="Gravatar profile of wasabina67"
   />
 </a>
