@@ -21,7 +21,9 @@ Thank you for visiting my GitHub profile.
 - Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
 -->
 
+<!--
 ### Gravatar
+-->
 
 <!--
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgravatar.com%2Fwasabina67&up_message=Gravatar&label=gravatar.com%2Fwasabina67&color=%232b3f6d)](https://gravatar.com/wasabina67)
@@ -82,6 +84,7 @@ Thank you for visiting my GitHub profile.
 - Special thanks to [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) for this amazing project!
 -->
 
+<!--
 <a href="https://gravatar.com/wasabina67">
   <img
     src="img/gravatar.com_wasabina67.card.png"
@@ -89,5 +92,6 @@ Thank you for visiting my GitHub profile.
     alt="Gravatar profile of wasabina67"
   />
 </a>
+-->
 
-#### **Last updated**: 2025-06-02
+#### **Last updated**: 2025-06-24
