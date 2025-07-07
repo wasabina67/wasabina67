@@ -5,10 +5,6 @@
 
 Thank you for visiting my GitHub profile.
 
-<!--
-## GitHub Readme Stats
--->
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=merko&hide_title=true&disable_animations=true"
   height="150"
