@@ -15,10 +15,6 @@ Thank you for visiting my GitHub profile.
 />
 
 <!--
-- Special thanks to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this amazing project!
--->
-
-<!--
 ### Gravatar
 -->
 
