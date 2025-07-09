@@ -6,6 +6,6 @@
 Thank you for visiting my GitHub profile.
 
 ![](https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=merko&hide_title=true&disable_animations=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=6&theme=vue-dark&hide_title=true&disable_animations=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=8&theme=vue-dark&hide_title=true&disable_animations=true)
 
 #### **Last updated**: 2025-07-09
