@@ -6,11 +6,11 @@
 Thank you for visiting my GitHub profile.
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=merko&hide_title=false&disable_animations=true"
+  src="https://github-readme-stats.vercel.app/api?username=wasabina67&show_icons=true&count_private=true&theme=tokyonight&hide_title=false&disable_animations=true"
   height="160"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=8&theme=vue-dark&hide_title=false&disable_animations=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabina67&layout=compact&langs_count=8&theme=tokyonight&hide_title=false&disable_animations=true"
   height="160"
 />
 
