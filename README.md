@@ -16,8 +16,10 @@ Thank you for visiting my GitHub profile.
 />
 -->
 
-#### Clock App
+#### Clock Apps
 - [Cat Clock using The Cat API](https://wasabina67.is-a.dev/cat-clock/)
 - [Dog Clock using The Dog API](https://wasabina67.is-a.dev/dog-clock/)
+
+#### Chrome Extensions
 
 ##### **Last updated**: 2025-12-24
