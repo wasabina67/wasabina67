@@ -21,5 +21,7 @@ Thank you for visiting my GitHub profile.
 - [Dog Clock using The Dog API](https://wasabina67.is-a.dev/dog-clock/)
 
 #### Chrome Extensions
+- wip
+- wip
 
 ##### **Last updated**: 2025-12-30
