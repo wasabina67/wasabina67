@@ -21,7 +21,7 @@ Thank you for visiting my GitHub profile.
 - [Dog Clock using The Dog API](https://wasabina67.is-a.dev/dog-clock/)
 
 #### Chrome Extensions
-- wip
-- wip
+- [ClipMark - Chrome Web Store](https://chromewebstore.google.com/detail/clipmark/ljfcfnfiaecponbjcbgemoggojcilcch?hl=en)
+- [ClipTitle - Chrome Web Store](https://chromewebstore.google.com/detail/cliptitle/fhjdloooegpencmhkinhoamobgahidkm?hl=en)
 
 ##### **Last updated**: 2025-12-30
