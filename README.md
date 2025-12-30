@@ -1,4 +1,4 @@
-### Hi, I’m wasabina67 👋
+### Hi, I’m wasabina67 🚀
 Thank you for visiting my GitHub profile.
 
 #### Clock Apps
