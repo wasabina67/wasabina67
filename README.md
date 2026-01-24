@@ -4,6 +4,7 @@ Thank you for visiting my GitHub profile.
 #### Clock Apps
 - [Cat Clock using The Cat API](https://wasabina67.is-a.dev/cat-clock/)
 - [Dog Clock using The Dog API](https://wasabina67.is-a.dev/dog-clock/)
+- [timeis](https://wasabina67.is-a.dev/timeis/)
 
 #### Chrome Extensions
 - [ClipMark - Chrome Web Store](https://chromewebstore.google.com/detail/clipmark/ljfcfnfiaecponbjcbgemoggojcilcch?hl=en)
