@@ -8,5 +8,6 @@ Thank you for visiting my GitHub profile.
 #### Chrome Extensions
 - [ClipMark - Chrome Web Store](https://chromewebstore.google.com/detail/clipmark/ljfcfnfiaecponbjcbgemoggojcilcch?hl=en)
 - [ClipTitle - Chrome Web Store](https://chromewebstore.google.com/detail/cliptitle/fhjdloooegpencmhkinhoamobgahidkm?hl=en)
+- [ZenSlugCleaner - Chrome Web Store](https://chromewebstore.google.com/detail/zenslugcleaner/kiibffolmdjcfgmdnmnailcpljoicjcl?hl=en)
 
-##### **Last updated**: 2026-01-22
+##### **Last updated**: 2026-01-24
