@@ -11,7 +11,7 @@ Thank you for visiting my GitHub profile.
   height="160"
 />
 
-<sub>Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
+Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### Clock Apps
 - [Cat Clock using The Cat API](https://wasabina67.is-a.dev/cat-clock/)
