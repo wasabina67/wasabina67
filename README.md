@@ -2,14 +2,8 @@
 Thank you for visiting my GitHub profile.
 
 #### GitHub Readme Stats
-<img
-  src="stats.svg"
-  height="160"
-/>
-<img
-  src="top-langs.svg"
-  height="160"
-/>
+<img src="stats.svg" height="160"/>
+<img src="top-langs.svg" height="160"/>
 
 Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
