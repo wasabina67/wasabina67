@@ -1,6 +1,9 @@
 ### Hi, I’m wasabina67 👋
 Thank you for visiting my GitHub profile.
 
+- Email: wasabina67@gmail.com
+- Gravatar: [wasabina67 | Tokyo | Gravatar](https://gravatar.com/wasabina67)
+
 #### :octocat: GitHub Readme Stats
 <img
   src="stats.svg"
