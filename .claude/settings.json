@@ -1,0 +1,8 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(./update_last_updated.sh:*)",
+            "Bash(./update_stats.sh:*)"
+        ]
+    }
+}
