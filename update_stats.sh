@@ -2,7 +2,7 @@
 
 set -e
 
-BASE_URL="https://github-readme-stats.vercel.app/api"
+BASE_URL="http://localhost:9000/api"
 USERNAME="wasabina67"
 
 curl -fL "${BASE_URL}?username=${USERNAME}&show_icons=true&theme=tokyonight&disable_animations=true" -o stats.svg
