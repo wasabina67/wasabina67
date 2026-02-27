@@ -22,5 +22,5 @@ Update the "Last updated" date in README.md to today's date:
 
 - `README.md` - Profile content displayed on GitHub
 - `stats.svg` / `top-langs.svg` - GitHub stats images (auto-generated via update_stats.sh)
-- `update_stats.sh` - Fetches fresh stats from github-readme-stats.vercel.app
+- `update_stats.sh` - Fetches fresh stats from local github-readme-stats server (localhost:9000)
 - `update_last_updated.sh` - Updates date stamp in README
