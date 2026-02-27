@@ -35,11 +35,25 @@ cd github-readme-stats && node express.js
 ./update_stats.sh
 ```
 
-### 2-3. Commit changes
+### 2-3. Kill the local server
+
+Kill the `node express.js` process started in step 1-4.
+
+```bash
+kill $(lsof -ti:9000)
+```
+
+### 2-4. Delete the cloned repo
+
+```bash
+rm -rf github-readme-stats
+```
+
+### 2-5. Commit changes
 
 Git add the changed files (README.md, stats.svg, top-langs.svg) and commit.
 
-### 2-4. Push to remote
+### 2-6. Push to remote
 
 ```bash
 git push
