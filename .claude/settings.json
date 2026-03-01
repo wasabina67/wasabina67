@@ -3,6 +3,7 @@
         "allow": [
             "Bash(git clone:*)",
             "Bash(npm i:*)",
+            "Bash(lsof:*)",
             "Bash(./update_last_updated.sh:*)",
             "Bash(./update_stats.sh:*)",
             "Bash(git add:*)",
